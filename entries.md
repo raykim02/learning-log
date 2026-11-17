@@ -74,3 +74,6 @@
 
 # 2026-11-15
 - took DEA-C01 baseline practice exam
+
+# 2026-11-17
+- Kane & Maarek AWS DEA-C01 prep (Introduction, Data Engineering Fundamentals, Storage, Database)
