@@ -77,3 +77,6 @@
 
 # 2026-11-17
 - Kane & Maarek AWS DEA-C01 prep (Introduction, Data Engineering Fundamentals, Storage, Database)
+
+# 2026-11-18
+- Tutorials Dojo Section-Based Exam --Data Store Management (DEA-C01)
