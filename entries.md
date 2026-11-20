@@ -80,3 +80,6 @@
 
 # 2026-11-18
 - Tutorials Dojo Section-Based Exam --Data Store Management (DEA-C01)
+
+# 2026-11-19
+- K&M AWS DEA-C01 (Migration and Transfer, Compute)
