@@ -83,3 +83,6 @@
 
 # 2026-11-19
 - K&M AWS DEA-C01 (Migration and Transfer, Compute)
+
+# 2026-11-20
+- K&M AWS DEA-C01 (Containers)
