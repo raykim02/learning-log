@@ -86,3 +86,6 @@
 
 # 2026-11-20
 - K&M AWS DEA-C01 (Containers)
+
+# 2026=11-22
+- K&M AWS DEA-C01 (Analytics)
