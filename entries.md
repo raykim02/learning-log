@@ -89,3 +89,6 @@
 
 # 2026=11-22
 - K&M AWS DEA-C01 (Analytics, Application Integration)
+
+# 2026-11-23
+- K&M AWS DEA-C01 (Security, Identity, and Compliance)
