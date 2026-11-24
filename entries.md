@@ -92,3 +92,6 @@
 
 # 2026-11-23
 - K&M AWS DEA-C01 (Security, Identity, and Compliance)
+
+# 2026-11-24
+- K&M AWS DEA-C01 (Networking and Content Delivery)
