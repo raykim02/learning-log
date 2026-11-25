@@ -95,3 +95,6 @@
 
 # 2026-11-24
 - K&M AWS DEA-C01 (Networking and Content Delivery)
+
+# 2026-11-25
+- K&M AWS DEA-C01 (Management and Governance)
