@@ -98,3 +98,6 @@
 
 # 2026-11-25
 - K&M AWS DEA-C01 (Management and Governance)
+
+# 2026-11-26
+- K&M AWS DEA-C01 (Machine Learning)
