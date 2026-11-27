@@ -101,3 +101,6 @@
 
 # 2026-11-26
 - K&M AWS DEA-C01 (Machine Learning)
+
+# 2026-11-27
+- K&M AWS DEA-C01 (Developer Tools)
